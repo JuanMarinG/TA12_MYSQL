@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T20:20:23.301Z" agent="5.0 (Windows)" version="20.1.1" etag="yIfrSDS-FcbBZ2E1xyAM" type="github"><diagram id="1pK2U52u39EcWoUf9Ywa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-19T20:45:23.379Z" agent="5.0 (Windows)" etag="juRAjFBm-IvghL06YIW4" version="20.1.1" type="github">
+  <diagram id="1pK2U52u39EcWoUf9Ywa" name="Página-1">
+    <mxGraphModel dx="2031" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#182E3E" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-nL9x9uwBdVTPMebP5XL-2" value="&lt;div&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;EJERCICIO 2 - ACADEMIA DE CLASES&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#1A1A1A;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="40" width="350" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
