@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T14:13:07.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="ft_2H5ayEVhcX4WIgtrD" version="20.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T14:22:10.522Z" agent="5.0 (Windows)" etag="Fww7vXc5zerE5xMM55HC" version="20.1.2" type="github">
   <diagram id="e14B0zVhnKclSYJwJWuQ" name="Pàgina-1">
-    <mxGraphModel dx="2123" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1918" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MY2yZ7T-iWRl8EQ1s907-56" value="Localidad" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="-380" y="-100" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MY2yZ7T-iWRl8EQ1s907-57" value="- codigoPostal&#xa;- nombre&#xa;- población" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="MY2yZ7T-iWRl8EQ1s907-56">
+        <mxCell id="MY2yZ7T-iWRl8EQ1s907-57" value="- nombre&#xa;- población" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="MY2yZ7T-iWRl8EQ1s907-56">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MY2yZ7T-iWRl8EQ1s907-62" value="Provincia" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="320" width="160" height="120" as="geometry" />
+          <mxGeometry x="-50" y="319" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MY2yZ7T-iWRl8EQ1s907-63" value="- codigoPostal&#xa;- nombre&#xa;- población" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="MY2yZ7T-iWRl8EQ1s907-62">
+        <mxCell id="MY2yZ7T-iWRl8EQ1s907-63" value="- codigoPostal&#xa;- nombre&#xa;- superficie&#xa;- población" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="MY2yZ7T-iWRl8EQ1s907-62">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MY2yZ7T-iWRl8EQ1s907-60" value="CCAA" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="-730" y="320" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MY2yZ7T-iWRl8EQ1s907-61" value="- codigoPostal&#xa;- nombre&#xa;- población" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="MY2yZ7T-iWRl8EQ1s907-60">
+        <mxCell id="MY2yZ7T-iWRl8EQ1s907-61" value="- nombre&#xa;- población&#xa;- superficie&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="MY2yZ7T-iWRl8EQ1s907-60">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MY2yZ7T-iWRl8EQ1s907-66" value="tiene" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
