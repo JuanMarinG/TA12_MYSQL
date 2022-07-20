@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T07:15:47.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="U31-Gjmz4wKDfycriYym" version="20.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T08:17:37.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="UUx0xKFcz_PHzWTWdqEf" version="20.1.2" type="github">
   <diagram id="w7LlWlDyLkvgTwCcmOdm" name="Pàgina-1">
-    <mxGraphModel dx="1327" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2123" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,14 +10,19 @@
         <mxCell id="CkiNoyqXaFTZ2xthF8Od-9" value="- &lt;u&gt;cif&lt;/u&gt;&lt;br&gt;- nombre&lt;br&gt;- dirección&lt;br&gt;- teléfono&lt;br&gt;- codigoInterno" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" vertex="1" parent="CkiNoyqXaFTZ2xthF8Od-1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CkiNoyqXaFTZ2xthF8Od-3" value="Proyecto" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="480" y="130" width="160" height="120" as="geometry" />
+        <mxCell id="CkiNoyqXaFTZ2xthF8Od-3" value="Proyecto" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;align=center;fillStyle=auto;gradientColor=none;swimlaneFillColor=none;fillColor=default;sketch=0;glass=0;swimlaneLine=1;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="135" width="160" height="110" as="geometry">
+            <mxRectangle x="480" y="130" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CkiNoyqXaFTZ2xthF8Od-12" value="- &lt;u&gt;idProyecto&lt;/u&gt;&lt;br&gt;- fechaPrevista&lt;br&gt;- fechaInicio&lt;br&gt;- fechaFin" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" vertex="1" parent="CkiNoyqXaFTZ2xthF8Od-3">
-          <mxGeometry y="30" width="160" height="90" as="geometry" />
+          <mxGeometry y="30" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CkiNoyqXaFTZ2xthF8Od-17" value="&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" vertex="1" parent="CkiNoyqXaFTZ2xthF8Od-3">
+          <mxGeometry y="160" width="160" height="-50" as="geometry" />
         </mxCell>
         <mxCell id="CkiNoyqXaFTZ2xthF8Od-4" value="Trabajador" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="480" y="465" width="160" height="120" as="geometry" />
+          <mxGeometry x="490" y="460" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CkiNoyqXaFTZ2xthF8Od-13" value="- &lt;u&gt;codigoTrabajador&lt;/u&gt;&lt;br&gt;- dni&lt;br&gt;- nombre&lt;br&gt;- apellidos" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" vertex="1" parent="CkiNoyqXaFTZ2xthF8Od-4">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
@@ -32,7 +37,7 @@
           <mxGeometry x="250" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CkiNoyqXaFTZ2xthF8Od-7" value="realiza" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="500" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CkiNoyqXaFTZ2xthF8Od-8" value="tiene" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="707" y="490" width="120" height="60" as="geometry" />
