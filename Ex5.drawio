@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T07:46:50.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="WHjNd9QvIfaV8MFvImh4" version="20.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T07:55:49.682Z" agent="5.0 (Windows)" etag="EgTVl-Df-1PSGPfYByji" version="20.1.2" type="github">
   <diagram id="FxPRVmeyyBTVfhNJRnU-" name="Página-1">
-    <mxGraphModel dx="1102" dy="1755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1043" dy="1718" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZTdebMv5ZZNX6EytbIy5-19" value="id_tuerca" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="ZTdebMv5ZZNX6EytbIy5-17">
+        <mxCell id="ZTdebMv5ZZNX6EytbIy5-19" value="id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="ZTdebMv5ZZNX6EytbIy5-17">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -30,7 +30,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZTdebMv5ZZNX6EytbIy5-22" value="numero" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ZTdebMv5ZZNX6EytbIy5-20">
+        <mxCell id="ZTdebMv5ZZNX6EytbIy5-22" value="numero" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontStyle=4" vertex="1" parent="ZTdebMv5ZZNX6EytbIy5-20">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -195,6 +195,12 @@
             <mxPoint x="538" y="190" as="sourcePoint" />
             <mxPoint x="666.9279999999999" y="190.81999999999994" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wzzWnJTyB5C26cYD1d-t-27" value="(1,1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="404" y="63" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzzWnJTyB5C26cYD1d-t-28" value="(0,n)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="404" y="251.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
