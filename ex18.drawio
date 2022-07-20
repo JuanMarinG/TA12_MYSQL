@@ -1,1 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T08:43:52.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" version="20.1.2" etag="we0NQnyBPHmgvQFlzyrw" type="github"><diagram id="sSHiEugCBAy1dFzR_FE-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-20T11:03:55.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="eaQm1rtUXM9i9DuAHNE3" version="20.1.2" type="github">
+  <diagram id="sSHiEugCBAy1dFzR_FE-" name="Pàgina-1">
+    <mxGraphModel dx="1102" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="noDrvXDxjBVshsAHtkk1-4" value="Persona" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;align=center;fillStyle=auto;gradientColor=none;swimlaneFillColor=none;fillColor=default;sketch=0;glass=0;swimlaneLine=1;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="160" height="130" as="geometry">
+            <mxRectangle x="480" y="130" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noDrvXDxjBVshsAHtkk1-5" value="- &lt;u&gt;codiPersonal&lt;br&gt;&lt;/u&gt;- dni&lt;br&gt;- nombre&lt;br&gt;- apellidos&lt;br&gt;- fijo&lt;br&gt;-móvil" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" vertex="1" parent="noDrvXDxjBVshsAHtkk1-4">
+          <mxGeometry y="30" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="noDrvXDxjBVshsAHtkk1-7" value="&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" vertex="1" parent="noDrvXDxjBVshsAHtkk1-4">
+          <mxGeometry y="130" width="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
