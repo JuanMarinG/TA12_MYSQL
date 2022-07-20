@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T16:16:33.318Z" agent="5.0 (Windows)" etag="KbTfP-sK6qm9Zzh_xrRp" version="20.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T16:18:58.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="cJ0Qng55xMis_GyZYwWt" version="20.1.2" type="github">
   <diagram id="iubEhlrI9boxicGmr8iF" name="Página-1">
-    <mxGraphModel dx="782" dy="371" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="joA6L5iQ-tmYWj-9W7zl-1" value="Socio" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="70" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="joA6L5iQ-tmYWj-9W7zl-2" value="- codigoSocio&lt;br&gt;- nombre&lt;br&gt;- apellidos&lt;br&gt;- telefono&lt;br&gt;- dirección" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="joA6L5iQ-tmYWj-9W7zl-1">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="rCaKu6jXFbbA0xZzCRfJ-1" value="Articulo" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=1;" vertex="1" parent="1">
           <mxGeometry x="514" y="122" width="127" height="125" as="geometry" />
         </mxCell>
