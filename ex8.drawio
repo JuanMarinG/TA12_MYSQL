@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T17:02:12.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="Wtnest7ajdyHgs7CaGiD" version="20.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T17:04:00.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="xdy2lk_UT5gcBEZPlPJh" version="20.1.2" type="github">
   <diagram id="v4GTke8sb0EKjKPMF_RU" name="Pàgina-1">
     <mxGraphModel dx="1313" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -156,9 +156,6 @@
             <mxPoint x="706.4114832535886" y="83.2057416267944" as="sourcePoint" />
             <mxPoint x="729.9107142857142" y="-15" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="p8o261xMvfaMvEFh0hcM-42" value="POT SER TERNÀRIA?????" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="-40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
