@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T16:40:32.363Z" agent="5.0 (Windows)" version="20.1.2" etag="x5HhEJy-_0LbK0cpOC_P" type="github"><diagram id="v4GTke8sb0EKjKPMF_RU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-20T16:50:49.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="2obsHxSOSfIdHsK_LGXL" version="20.1.2" type="github">
+  <diagram id="v4GTke8sb0EKjKPMF_RU" name="Pàgina-1">
+    <mxGraphModel dx="1020" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p8o261xMvfaMvEFh0hcM-1" value="Cliente" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-60" width="127" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="p8o261xMvfaMvEFh0hcM-2" value="&lt;div&gt;- &lt;u&gt;codigoCliente&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- dni&lt;/div&gt;&lt;div&gt;- nombre&lt;/div&gt;&lt;div&gt;- apellido&lt;/div&gt;&lt;div&gt;- teléfono&lt;/div&gt;&lt;div&gt;- nº tarjeta&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="p8o261xMvfaMvEFh0hcM-1">
+          <mxGeometry y="30" width="127" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="p8o261xMvfaMvEFh0hcM-3" value="Embarque" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-20" width="127" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p8o261xMvfaMvEFh0hcM-4" value="&lt;div&gt;- &lt;u&gt;codigoEmbarque&lt;/u&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="p8o261xMvfaMvEFh0hcM-3">
+          <mxGeometry y="30" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8o261xMvfaMvEFh0hcM-5" value="Reserva" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-25" width="127" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p8o261xMvfaMvEFh0hcM-6" value="&lt;div&gt;- &lt;u&gt;codigoReserva&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- fecha&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="p8o261xMvfaMvEFh0hcM-5">
+          <mxGeometry y="30" width="127" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8o261xMvfaMvEFh0hcM-7" value="Vuelo" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="127" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p8o261xMvfaMvEFh0hcM-8" value="&lt;div&gt;- &lt;u&gt;codigoVuelo&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- fechaSalida&lt;/div&gt;&lt;div&gt;- fechaLlegada&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="p8o261xMvfaMvEFh0hcM-7">
+          <mxGeometry y="30" width="127" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p8o261xMvfaMvEFh0hcM-9" value="Asiento" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="180" width="127" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p8o261xMvfaMvEFh0hcM-10" value="&lt;div&gt;- &lt;u&gt;codigoAvion&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- fila&lt;/div&gt;&lt;div&gt;- columna&lt;/div&gt;&lt;div&gt;- planta&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="p8o261xMvfaMvEFh0hcM-9">
+          <mxGeometry y="30" width="127" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p8o261xMvfaMvEFh0hcM-13" value="Aeropuerto" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="380" width="127" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p8o261xMvfaMvEFh0hcM-14" value="&lt;div&gt;- &lt;u&gt;codigoAeropuerto&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- nombre&lt;/div&gt;&lt;div&gt;- localidad&lt;/div&gt;&lt;div&gt;- pais&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="p8o261xMvfaMvEFh0hcM-13">
+          <mxGeometry y="30" width="127" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p8o261xMvfaMvEFh0hcM-17" value="Avión" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="300" width="127" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p8o261xMvfaMvEFh0hcM-18" value="&lt;div&gt;- &lt;u&gt;codigoAvion&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- modelo&lt;/div&gt;&lt;div&gt;- plazas&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="p8o261xMvfaMvEFh0hcM-17">
+          <mxGeometry y="30" width="127" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
