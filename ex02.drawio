@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T06:55:35.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="z97GU8LJfahuNy2fkp5r" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-21T14:26:18.577Z" agent="5.0 (Windows)" etag="_U9zV--_vXSTlu4c8sDE" version="20.1.3" type="github">
   <diagram id="1pK2U52u39EcWoUf9Ywa" name="Página-1">
-    <mxGraphModel dx="1102" dy="1413" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -288,6 +288,9 @@
         </mxCell>
         <mxCell id="moOMvfpPYkLKGfNDIPuM-1" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;nota&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;sketch=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="318" y="-611.21" width="70" height="18.79" as="geometry" />
+        </mxCell>
+        <mxCell id="WrNgIL8a_gdP9hledsI5-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Alumno&lt;/b&gt;(text &lt;u&gt;dni&lt;/u&gt;,text direccion,text nombre,int telf,int edad)&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Desempleado&lt;/b&gt;(&lt;u&gt;dni&lt;/u&gt;) dni referencia Alumno&lt;/font&gt;&lt;/div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;b&gt;Trabajador&lt;/b&gt;(&lt;u&gt;dni&lt;/u&gt;,text cif_empresa,text nom_empresa,int telf_empresa,text direc_empresa)&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;dni referencia Alumno&lt;br&gt;&lt;br&gt;&lt;b&gt;Profesor&lt;/b&gt;(text &lt;u&gt;dni&lt;/u&gt;,text nombre,text apellidos,text direccion,int telf,int edad)&lt;br&gt;&lt;br&gt;&lt;b&gt;Curso&lt;/b&gt;(int &lt;u&gt;idCurso&lt;/u&gt;,text titulo,int horas,text programa,date fecha_inicio,date&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;fecha_fin,int edicion,text id_profesor) id_profesor referencia Profesor(dni)&lt;br&gt;&lt;br&gt;&lt;b&gt;Cursa&lt;/b&gt;(&lt;u&gt;dni_alumno&lt;/u&gt;,int &lt;u&gt;idCurso&lt;/u&gt;,double nota) dni_alumno referenica Alumno, idCurso referencia curso&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482" y="-410.39" width="637" height="249.39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
