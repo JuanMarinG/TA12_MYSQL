@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T07:27:45.107Z" agent="5.0 (Windows)" etag="mB2gKBdNh6D8a7HofWYI" version="20.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-21T07:28:07.564Z" agent="5.0 (Windows)" etag="fBuSDRUnHauxFwb7534e" version="20.1.3" type="github">
   <diagram id="e14B0zVhnKclSYJwJWuQ" name="Pàgina-1">
-    <mxGraphModel dx="3539" dy="1240" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2842" dy="875" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,9 +90,6 @@
         </mxCell>
         <mxCell id="jRFVzA_71bG7eUm4LBwY-11" value="&lt;b&gt;DIAGRAMA EJERCICIO 3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-660" y="47" width="152" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="LvHJdnn_zBilJ78T73Ot-1" value="&lt;b&gt;DIAGRAMA EJERCICIO 3&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="190" width="116" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
