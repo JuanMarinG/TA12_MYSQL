@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T15:19:59.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="ZZKcLuquLHw8G6UObT7q" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-22T15:26:54.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="4kqtiytL-u_IJiZZSgmd" version="20.1.4" type="github">
   <diagram id="sSHiEugCBAy1dFzR_FE-" name="Pàgina-1">
     <mxGraphModel dx="918" dy="488" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
             <mxRectangle x="480" y="130" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAi6DjdDJ4cRaxT2IrHZ-12" value="&lt;div&gt;- codiInmueble&lt;/div&gt;&lt;div&gt;- metros&lt;/div&gt;&lt;div&gt;- descripcion&lt;br&gt;&lt;/div&gt;- direccion" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" parent="XAi6DjdDJ4cRaxT2IrHZ-11" vertex="1">
+        <mxCell id="XAi6DjdDJ4cRaxT2IrHZ-12" value="&lt;div&gt;- &lt;u&gt;codiInmueble&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- metros&lt;/div&gt;&lt;div&gt;- descripcion&lt;br&gt;&lt;/div&gt;- direccion" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" parent="XAi6DjdDJ4cRaxT2IrHZ-11" vertex="1">
           <mxGeometry y="30" width="160" height="82" as="geometry" />
         </mxCell>
         <mxCell id="XAi6DjdDJ4cRaxT2IrHZ-13" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
@@ -43,12 +43,12 @@
           <mxGeometry y="30" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XAi6DjdDJ4cRaxT2IrHZ-18" value="Garaje" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;align=center;fillStyle=auto;gradientColor=none;swimlaneFillColor=none;fillColor=default;sketch=0;glass=0;swimlaneLine=1;perimeterSpacing=0;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="530" width="160" height="70" as="geometry">
+          <mxGeometry x="1040" y="530" width="160" height="71" as="geometry">
             <mxRectangle x="480" y="130" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAi6DjdDJ4cRaxT2IrHZ-19" value="- num_garaje&lt;br&gt;- planta" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" parent="XAi6DjdDJ4cRaxT2IrHZ-18" vertex="1">
-          <mxGeometry y="30" width="160" height="40" as="geometry" />
+        <mxCell id="XAi6DjdDJ4cRaxT2IrHZ-19" value="- numGaraje&lt;br&gt;- planta" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" parent="XAi6DjdDJ4cRaxT2IrHZ-18" vertex="1">
+          <mxGeometry y="30" width="160" height="41" as="geometry" />
         </mxCell>
         <mxCell id="XAi6DjdDJ4cRaxT2IrHZ-24" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="aMxlDMEUPCcJRxzXV3cb-10" edge="1" source="noDrvXDxjBVshsAHtkk1-5">
           <mxGeometry relative="1" as="geometry">
@@ -163,7 +163,7 @@
             <mxRectangle x="480" y="130" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aMxlDMEUPCcJRxzXV3cb-3" value="- codigoAlquiler" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" vertex="1" parent="aMxlDMEUPCcJRxzXV3cb-2">
+        <mxCell id="aMxlDMEUPCcJRxzXV3cb-3" value="- &lt;u&gt;codigoAlquiler&lt;/u&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" vertex="1" parent="aMxlDMEUPCcJRxzXV3cb-2">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aMxlDMEUPCcJRxzXV3cb-4" value="Compra" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;align=center;fillStyle=auto;gradientColor=none;swimlaneFillColor=none;fillColor=default;sketch=0;glass=0;swimlaneLine=1;perimeterSpacing=0;" vertex="1" parent="1">
@@ -171,7 +171,7 @@
             <mxRectangle x="480" y="130" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aMxlDMEUPCcJRxzXV3cb-5" value="- codigoAlquiler&lt;br&gt;- fecha&lt;br&gt;- precio" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" vertex="1" parent="aMxlDMEUPCcJRxzXV3cb-4">
+        <mxCell id="aMxlDMEUPCcJRxzXV3cb-5" value="- &lt;u&gt;codigoAlquiler&lt;/u&gt;&lt;br&gt;- fecha&lt;br&gt;- precio" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" vertex="1" parent="aMxlDMEUPCcJRxzXV3cb-4">
           <mxGeometry y="30" width="160" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aMxlDMEUPCcJRxzXV3cb-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="noDrvXDxjBVshsAHtkk1-5" target="aMxlDMEUPCcJRxzXV3cb-7">
@@ -224,6 +224,20 @@
         </mxCell>
         <mxCell id="aMxlDMEUPCcJRxzXV3cb-18" value="0:N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="517" y="521.5" width="38" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="aMxlDMEUPCcJRxzXV3cb-19" value="Pago" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;align=center;fillStyle=auto;gradientColor=none;swimlaneFillColor=none;fillColor=default;sketch=0;glass=0;swimlaneLine=1;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="478" y="698" width="160" height="100" as="geometry">
+            <mxRectangle x="480" y="130" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aMxlDMEUPCcJRxzXV3cb-20" value="- &lt;u&gt;codigoPago&lt;/u&gt;&lt;br&gt;- mes&lt;br&gt;- año&lt;br&gt;- valor" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" vertex="1" parent="aMxlDMEUPCcJRxzXV3cb-19">
+          <mxGeometry y="30" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aMxlDMEUPCcJRxzXV3cb-21" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="aMxlDMEUPCcJRxzXV3cb-19" target="aMxlDMEUPCcJRxzXV3cb-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="631.3917525773197" y="565" as="sourcePoint" />
+            <mxPoint x="887" y="440.0931989924434" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
