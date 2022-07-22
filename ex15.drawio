@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T08:19:32.415Z" agent="5.0 (Windows)" etag="AiyVUQpbTqVymUs51BYU" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-22T08:39:46.225Z" agent="5.0 (Windows)" etag="FEWV909HjgMh_3gt2W3D" version="20.1.4" type="github">
   <diagram id="-HrnMLMHnISkdgIZ-pA1" name="Página-1">
     <mxGraphModel dx="1422" dy="744" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fyiqRnM5UawtUj4CZROI-1" value="DATOS MENU" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="fyiqRnM5UawtUj4CZROI-1" value="DATOS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="199" width="180" height="182" as="geometry" />
         </mxCell>
         <mxCell id="fyiqRnM5UawtUj4CZROI-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="fyiqRnM5UawtUj4CZROI-1">
@@ -59,7 +59,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyiqRnM5UawtUj4CZROI-14" value="MENU" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="fyiqRnM5UawtUj4CZROI-14" value="PLATOS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="729" y="199" width="180" height="123" as="geometry" />
         </mxCell>
         <mxCell id="fyiqRnM5UawtUj4CZROI-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="fyiqRnM5UawtUj4CZROI-14">
@@ -70,7 +70,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyiqRnM5UawtUj4CZROI-17" value="menu" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="fyiqRnM5UawtUj4CZROI-15">
+        <mxCell id="fyiqRnM5UawtUj4CZROI-17" value="platos" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="fyiqRnM5UawtUj4CZROI-15">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -102,10 +102,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fyiqRnM5UawtUj4CZROI-29" value="REPETIR" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="913" y="399" width="120" height="60" as="geometry" />
+          <mxGeometry x="912" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fyiqRnM5UawtUj4CZROI-33" value="DIA SEMANA" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="542" y="224" width="100" height="40" as="geometry" />
+          <mxGeometry x="548" y="322" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fyiqRnM5UawtUj4CZROI-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;dashed=1;" edge="1" parent="1" source="fyiqRnM5UawtUj4CZROI-14" target="fyiqRnM5UawtUj4CZROI-29">
           <mxGeometry relative="1" as="geometry">
@@ -143,16 +143,19 @@
             <mxPoint x="624" y="426" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyiqRnM5UawtUj4CZROI-59" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fyiqRnM5UawtUj4CZROI-33" target="fyiqRnM5UawtUj4CZROI-15">
+        <mxCell id="fyiqRnM5UawtUj4CZROI-59" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="fyiqRnM5UawtUj4CZROI-1" target="fyiqRnM5UawtUj4CZROI-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="464" y="426" as="sourcePoint" />
             <mxPoint x="691" y="236" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyiqRnM5UawtUj4CZROI-60" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fyiqRnM5UawtUj4CZROI-2" target="fyiqRnM5UawtUj4CZROI-33">
+        <mxCell id="fyiqRnM5UawtUj4CZROI-60" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="fyiqRnM5UawtUj4CZROI-8" target="fyiqRnM5UawtUj4CZROI-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="467" y="260.66999999999996" as="sourcePoint" />
             <mxPoint x="555.0799999999999" y="225.99999999999997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="445" y="342" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fyiqRnM5UawtUj4CZROI-61" value="cantidad_plato" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
