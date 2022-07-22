@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T15:26:54.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="4kqtiytL-u_IJiZZSgmd" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-22T15:31:53.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="lpwOI2cu1hskZ27wgSmf" version="20.1.4" type="github">
   <diagram id="sSHiEugCBAy1dFzR_FE-" name="Pàgina-1">
     <mxGraphModel dx="918" dy="488" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
             <mxRectangle x="480" y="130" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aMxlDMEUPCcJRxzXV3cb-5" value="- &lt;u&gt;codigoAlquiler&lt;/u&gt;&lt;br&gt;- fecha&lt;br&gt;- precio" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" vertex="1" parent="aMxlDMEUPCcJRxzXV3cb-4">
+        <mxCell id="aMxlDMEUPCcJRxzXV3cb-5" value="- &lt;u&gt;codigoCompra&lt;/u&gt;&lt;br&gt;- fecha&lt;br&gt;- precio" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" vertex="1" parent="aMxlDMEUPCcJRxzXV3cb-4">
           <mxGeometry y="30" width="160" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aMxlDMEUPCcJRxzXV3cb-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="noDrvXDxjBVshsAHtkk1-5" target="aMxlDMEUPCcJRxzXV3cb-7">
