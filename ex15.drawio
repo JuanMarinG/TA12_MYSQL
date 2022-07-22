@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T08:17:41.077Z" agent="5.0 (Windows)" etag="l5oAXy_flCNWeAhUTkVS" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-22T08:19:32.415Z" agent="5.0 (Windows)" etag="AiyVUQpbTqVymUs51BYU" version="20.1.4" type="github">
   <diagram id="-HrnMLMHnISkdgIZ-pA1" name="Página-1">
     <mxGraphModel dx="1422" dy="744" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyiqRnM5UawtUj4CZROI-4" value="menu" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="fyiqRnM5UawtUj4CZROI-2">
+        <mxCell id="fyiqRnM5UawtUj4CZROI-4" value="datos" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="fyiqRnM5UawtUj4CZROI-2">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
