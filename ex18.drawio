@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T15:33:28.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="noLFhvUQAPWs017eBgsX" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-22T15:33:57.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="zms96dOVLcA6lrCH502g" version="20.1.4" type="github">
   <diagram id="sSHiEugCBAy1dFzR_FE-" name="Pàgina-1">
     <mxGraphModel dx="918" dy="488" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxRectangle x="480" y="130" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="noDrvXDxjBVshsAHtkk1-5" value="- &lt;u&gt;codiPersonal&lt;br&gt;&lt;/u&gt;- dni&lt;br&gt;- nombre&lt;br&gt;- apellidos&lt;br&gt;- fijo&lt;br&gt;&lt;div&gt;- móvil&lt;/div&gt;&lt;div&gt;- esTrabajador&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" parent="noDrvXDxjBVshsAHtkk1-4" vertex="1">
+        <mxCell id="noDrvXDxjBVshsAHtkk1-5" value="- &lt;u&gt;codigoPersonal&lt;br&gt;&lt;/u&gt;- dni&lt;br&gt;- nombre&lt;br&gt;- apellidos&lt;br&gt;- fijo&lt;br&gt;&lt;div&gt;- móvil&lt;/div&gt;&lt;div&gt;- esTrabajador&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" parent="noDrvXDxjBVshsAHtkk1-4" vertex="1">
           <mxGeometry y="30" width="160" height="127" as="geometry" />
         </mxCell>
         <mxCell id="noDrvXDxjBVshsAHtkk1-7" value="&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" parent="noDrvXDxjBVshsAHtkk1-4" vertex="1">
@@ -20,7 +20,7 @@
             <mxRectangle x="480" y="130" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAi6DjdDJ4cRaxT2IrHZ-12" value="&lt;div&gt;- &lt;u&gt;codiInmueble&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- metros&lt;/div&gt;&lt;div&gt;- descripcion&lt;br&gt;&lt;/div&gt;- direccion" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" parent="XAi6DjdDJ4cRaxT2IrHZ-11" vertex="1">
+        <mxCell id="XAi6DjdDJ4cRaxT2IrHZ-12" value="&lt;div&gt;- &lt;u&gt;codigoInmueble&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- metros&lt;/div&gt;&lt;div&gt;- descripcion&lt;br&gt;&lt;/div&gt;- direccion" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=4;" parent="XAi6DjdDJ4cRaxT2IrHZ-11" vertex="1">
           <mxGeometry y="30" width="160" height="82" as="geometry" />
         </mxCell>
         <mxCell id="XAi6DjdDJ4cRaxT2IrHZ-13" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
